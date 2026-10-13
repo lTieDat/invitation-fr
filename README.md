@@ -6,4 +6,4 @@ Trang tĩnh responsive dành cho Trần Thị Ngọc Anh. Mở `index.html` đ�
 
 Trong `index.html`, tìm hai dòng `Sẽ bật mí sớm` dưới mục `THỜI GIAN` và `ĐỊA ĐIỂM`, rồi thay bằng thông tin chính thức.
 
-Trang được xuất bản qua GitHub Pages từ thư mục gốc của nhánh `main`.
+Workflow `.github/workflows/pages.yml` triển khai trang từ nhánh `main` lên GitHub Pages. Repo cần bật Pages và chọn nguồn **GitHub Actions** lần đầu trong Settings → Pages.
